@@ -1,4 +1,4 @@
-# 🔬 Exp_2: Iterative RAG Pipeline Experiment Framework
+# RAG Pipeline Experiment 
 
 A framework for systematically experimenting, evaluating, and improving **RAG (Retrieval-Augmented Generation)** pipeline performance on a Korean Q&A dataset. It supports an **iterative improvement cycle** that automatically identifies incorrect answers and re-generates/re-evaluates them with improved strategies.
 
