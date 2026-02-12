@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Data files (security)
+*.xlsx
+*.csv
+*.jsonl
+incorrect_indices.json
+
+# Output directories
+1_rag_generation/output/
+2_evaluation/input/
+2_evaluation/output/
+3_re_evaluation/results/
+
+# Legacy data
+legacy/log/
+legacy/incorrect_indices.json
+
+# Misc
+Untitled
+*.backup_*.json
+.env
